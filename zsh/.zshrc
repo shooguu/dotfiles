@@ -1,9 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-# Export zsh history location
-export HISTFILE=$HOME/dotfile/zsh/.zsh_history
-
 # LS Colors
 export LS_COLORS="$(vivid generate catppuccin-macchiato)"
 
